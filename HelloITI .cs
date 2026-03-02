@@ -13,5 +13,11 @@ namespace Lap1
         {
             Console.WriteLine("Hello ITI");
         }
+
+
+        public void printHelloGit()
+        {
+            Console.WriteLine("Hello GIT from ITI");
+        }
     }
 }
