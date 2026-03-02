@@ -8,5 +8,10 @@ namespace Lap1
 {
     class HelloITI
     {
+        // printHelloITI
+        public void printHelloITI()
+        {
+            Console.WriteLine("Hello ITI");
+        }
     }
 }
